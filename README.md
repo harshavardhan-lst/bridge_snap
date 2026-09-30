@@ -44,7 +44,7 @@ bridge_snap/
 ### 2. Installation
 ```powershell
 # Clone the repository
-git clone [https://github.com/<your-username>/bridge_snap.git](https://github.com/harshavardhan-lst/bridge_snap)
+git clone https://github.com/harshavardhan-lst/bridge_snap.git
 cd bridge_snap
 
 # Create and activate virtual environment
