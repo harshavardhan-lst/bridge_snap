@@ -1,0 +1,15 @@
+# Secrets and environment
+.streamlit/secrets.toml
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
